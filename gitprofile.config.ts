@@ -23,7 +23,7 @@ const CONFIG = {
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
-            projects: [
+      projects: [
         {
           title: 'Project Name',
           description:
