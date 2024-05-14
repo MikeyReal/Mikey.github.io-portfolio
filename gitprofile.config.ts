@@ -114,18 +114,26 @@ skills: [
       companyLink: 'https://discord.gg/tiertest',
     },
   ],
+  certifications: [
+    {
+      name: 'Lorem ipsum',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+  ],
   educations: [
     {
-      institution: 'Youtube',
-      degree: '',
+      institution: 'Institution Name',
+      degree: 'Degree',
       from: '2015',
       to: '2019',
     },
     {
       institution: 'Institution Name',
       degree: 'Degree',
-      from: '3019',
-      to: 2024',
+      from: '2012',
+      to: '2014',
     },
   ],
   publications: [
