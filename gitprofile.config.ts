@@ -37,7 +37,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    discord: 'MikeyDevelopment',
+    linkedin: 'MikeyDevelopment',
     twitter: '',
     mastodon: '',
     researchGate: '',
