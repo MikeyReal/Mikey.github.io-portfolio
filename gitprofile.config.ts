@@ -82,58 +82,50 @@ const CONFIG = {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
-  skills: [
-    'PHP',
-    'Laravel',
+skills: [
+    'Java',
+    'Python',
     'JavaScript',
     'React.js',
     'Node.js',
     'Nest.js',
     'MySQL',
-    'PostgreSQL',
+    'SpigotMC',
     'Git',
     'Docker',
     'PHPUnit',
     'CSS',
     'Antd',
-    'Tailwind',
+    'Tailwind'
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Modernpvp',
+      position: 'Developer',
+      from: 'September 2023',
+      to: 'December 2024',
+      companyLink: 'https://discord.gg/modernpvp',
     },
     {
       company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
-  ],
-  certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      position: 'Developer/Owner',
+      from: 'September 2023',
+      to: 'December 20241',
+      companyLink: 'https://discord.gg/tiertest',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Youtube',
+      degree: '',
       from: '2015',
       to: '2019',
     },
     {
       institution: 'Institution Name',
       degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      from: '3019',
+      to: 2024',
     },
   ],
   publications: [
